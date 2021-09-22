@@ -1,0 +1,1 @@
+Hi this is my first project creating a website and it is about pasta recipies. So far I have begun learning html. I have learned how to make a heading, add paragraphs and lists, as well as images and links. This is very cool and exciting can't wait to learn more and make my website look even better.
